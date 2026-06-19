@@ -31,9 +31,8 @@ No VPN. No remote desktop. No drama.
 
 | Product | What it does |
 |---|---|
-| **[FabricFour Learning](https://nuvio.co.za)** | Learning management system for training, assessment, and certification. |
-| **[FabricFour Legal](https://nuvio.co.za)** | Practice and matter management software for legal teams. |
-| **Sherlock** | Debt collection and recoveries platform. |
+| **[Nuvio Connect](https://nuvio-connect.com/)** | IoT OEE platform for monitoring equipment performance and efficiency. |
+| **[Boardly](https://boardly.co.za/)** | Board and governance management platform. |
 
 ## How we work
 
