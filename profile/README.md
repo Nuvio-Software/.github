@@ -31,8 +31,8 @@ No VPN. No remote desktop. No drama.
 
 | Product | What it does |
 |---|---|
-| **[Nuvio Connect](https://nuvio-connect.com/)** | IoT OEE platform for monitoring equipment performance and efficiency. |
-| **[Boardly](https://boardly.co.za/)** | Board and governance management platform. |
+| **[Nuvio Connect](https://nuvio-connect.com/)** | The live operations layer for industrial plants — real-time machine performance, downtime, and OEE visibility across the factory floor. |
+| **[Boardly](https://boardly.co.za/)** | Boardroom booking made simple — effortlessly reserve and manage meeting spaces. |
 
 ## How we work
 
